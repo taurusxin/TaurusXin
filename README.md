@@ -35,6 +35,5 @@
 <img src="https://github-readme-stats-gray-one.vercel.app/api/top-langs?username=taurusxin&show_icons=true&locale=en&layout=compact" alt="taurusxin" />
 &nbsp;
 <img src="https://github-readme-stats-gray-one.vercel.app/api?username=taurusxin&show_icons=true&locale=en" alt="taurusxin" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taurusxin&" alt="taurusxin" />
 </p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taurusxin&" alt="taurusxin" /></p>
