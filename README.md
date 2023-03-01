@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Communications** in the UK 🇬🇧
 
-- 📝 I regularly write articles on [https://taurusxin.com](https://taurusxin.com)
+- 📝 I regularly write articles on [https://www.taurusxin.com](https://www.taurusxin.com)
 
-- 📫 Contact me with email **i@mail.taurusxin.com** or **taurusxin@outlook.com**
+- 📫 Contact me with email **i@taurusxin.com** or **taurusxin@outlook.com**
 
 - 📷 Amateur photography
 
