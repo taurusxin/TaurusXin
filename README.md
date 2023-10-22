@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm TaurusXin</h1>
-<h3 align="center">A fullstack developer from China, studying a master's programme in the UK 🇬🇧 now.</h3>
+<h3 align="center">A fullstack developer from China, currently working for coding.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taurusxin&label=Profile%20views&color=0e75b6&style=flat-square" alt="taurusxin" /> </p>
 
-- 🌱 I’m currently learning **Data Communications** in the UK 🇬🇧
+- 🌱 I graduated from [University of Sheffield](https://www.sheffield.ac.uk/) with Master of Science in 2024.
 
 - 📝 I regularly write articles on [https://www.taurusxin.com](https://www.taurusxin.com)
 
 - 📫 Contact me with email **i@taurusxin.com** or **taurusxin@outlook.com**
 
-- 📷 Amateur photography
+- 📷 Amateur photographer
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
