@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" width="100%" />
 
-<br/>
+<br/><br/>
 
 **💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
 **🎓 University of Sheffield MSc 2024**<br/>
