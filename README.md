@@ -2,6 +2,8 @@
 
 <img src="assets/banner.png" width="100%" />
 
+<br/>
+
 **💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
 **🎓 University of Sheffield MSc 2024**<br/>
 **📍 Hangzhou, China**<br/>
