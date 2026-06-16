@@ -4,8 +4,8 @@
 
 ## TaurusXin
 
-**Fullstack Developer · Go / C++ / TypeScript**
-**University of Sheffield MSc 2024 · Hangzhou, China**
+**Fullstack Developer · Go / C++ / TypeScript**<br/>
+**University of Sheffield MSc 2024 · Hangzhou, China**<br/>
 **Travel Photographer · Coffee Enthusiast**
 
 <br/>
@@ -13,9 +13,16 @@
 [![Blog](https://img.shields.io/badge/Blog-www.taurusxin.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://www.taurusxin.com)
 [![Email](https://img.shields.io/badge/Email-i%40taurusxin.com-ea4335?style=flat-square&logo=mail.ru&logoColor=white)](mailto:i@taurusxin.com)
 [![RSS](https://img.shields.io/badge/RSS-Subscribe-fb8500?style=flat-square&logo=rss&logoColor=white)](https://taurusxin.com/index.xml)
-![Profile Views](https://komarev.com/ghpvc/?username=taurusxin&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=taurusxin&color=58a6ff&style=flat-square&label=Visitors)
 
 </div>
+
+<br/>
+
+- 🎨 Creative-driven developer who believes in pragmatic solutions over rigid patterns
+- 🔧 Building everything from small utilities to full-scale applications
+- 📷 When not coding, you'll find me chasing golden-hour light with my camera
+- ☕ Always exploring new technologies, but shipping is what matters
 
 <br/>
 
