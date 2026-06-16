@@ -4,8 +4,6 @@
 
 <br/><br/>
 
-#### About Me
-
 **💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
 **🎓 University of Sheffield MSc 2024**<br/>
 **📍 Hangzhou, China**<br/>
@@ -22,6 +20,8 @@
 </div>
 
 <br/>
+
+#### What I Do
 
 - 🎨 Creative-driven developer who believes in pragmatic solutions over rigid patterns
 - 🔧 Building everything from small utilities to full-scale applications
