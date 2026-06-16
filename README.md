@@ -5,7 +5,7 @@
 <br/><br/>
 
 **💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
-**🎓 University of Sheffield MSc 2024**<br/>
+**🎓 The University of Sheffield MSc 2024**<br/>
 **📍 Hangzhou, China**<br/>
 **📷 Travel Photographer · ☕ Coffee Enthusiast**<br/>
 
