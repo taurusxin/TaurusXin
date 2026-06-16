@@ -2,11 +2,11 @@
 
 <img src="assets/banner.png" width="100%" />
 
-## TaurusXin
+**💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
+**🎓 University of Sheffield MSc 2024**<br/>
+**📍 Hangzhou, China**<br/>
+**📷 Travel Photographer · ☕ Coffee Enthusiast**<br/>
 
-**Fullstack Developer · Go / C++ / TypeScript**<br/>
-**University of Sheffield MSc 2024 · Hangzhou, China**<br/>
-**Travel Photographer · Coffee Enthusiast**
 
 <br/>
 
