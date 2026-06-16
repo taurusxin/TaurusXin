@@ -26,8 +26,6 @@
 - 📷 When not coding, you'll find me chasing golden-hour light with my camera
 - ☕ Always exploring new technologies, but shipping is what matters
 
-<br/>
-
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -65,8 +63,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-<br/>
 
 ## GitHub Stats
 
