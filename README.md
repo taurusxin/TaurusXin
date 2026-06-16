@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" style="margin-bottom: 20px;" />
+<img src="assets/banner.png" width="100%" />
 
-<br/>
+<br/><br/>
 
 **💻 Fullstack Developer · Go / C++ / TypeScript**<br/>
 **🎓 University of Sheffield MSc 2024**<br/>
@@ -14,7 +14,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-www.taurusxin.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://www.taurusxin.com)
 [![Email](https://img.shields.io/badge/Email-i%40taurusxin.com-ea4335?style=flat-square&logo=mail.ru&logoColor=white)](mailto:i@taurusxin.com)
-[![RSS](https://img.shields.io/badge/RSS-Subscribe-fb8500?style=flat-square&logo=rss&logoColor=white)](https://taurusxin.com/index.xml)
+[![RSS](https://img.shields.io/badge/RSS-Subscribe-fb8500?style=flat-square&logo=rss&logoColor=white)](https://www.taurusxin.com/index.xml)
 ![Visitors](https://komarev.com/ghpvc/?username=taurusxin&color=58a6ff&style=flat-square&label=Visitors)
 
 </div>
